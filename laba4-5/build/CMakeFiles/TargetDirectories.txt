@@ -1,0 +1,11 @@
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_1.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_2.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_3.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_4.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_5.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_6.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_7.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_8.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/laba4_9.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/edit_cache.dir
+/Users/niazleuskin/temp/university1courseC++/laba4/build/CMakeFiles/rebuild_cache.dir
